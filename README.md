@@ -18,23 +18,16 @@ This project simulates the planning, deployment, and operation of a modern enter
 
 ---
 
-## Current Sprint
+## Current Project Status
 
-🟡 Sprint 0 - Project Initiation
+| Phase | Sprint | Status |
+|---|---|---|
+| Phase 0 — Project Governance | Sprint 0.1 — Repository Foundation | Complete |
+| Phase 0 — Project Governance | Sprint 0.2 — Governance Framework | In Progress |
+| Phase 0 — Project Governance | Sprint 0.3 — Project Planning | Planned |
+| Phase 1 — Enterprise Foundation | Not Started | Planned |
 
----
-
-## Project Status
-
-- [ ] Sprint 0 - Planning
-- [ ] Sprint 1 - Active Directory
-- [ ] Sprint 2 - RBAC
-- [ ] Sprint 3 - Group Policy
-- [ ] Sprint 4 - File Services
-- [ ] Sprint 5 - Knowledge Base
-- [ ] Sprint 6 - Ticketing
-- [ ] Sprint 7 - Hybrid Identity
-- [ ] Sprint 8 - Automation
+**Current Sprint:** Sprint 0.2 — Governance Framework
 
 ---
 
